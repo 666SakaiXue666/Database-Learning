@@ -6,3 +6,5 @@
 Notes_summarized-by-myself是针对课上的内容，我自己做的笔记，看看看！
 
 Course-Project是project的内容，有code和report
+
+Data_for-Course是这门课一直会用到的数据库university的数据
